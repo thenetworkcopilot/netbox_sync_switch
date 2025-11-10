@@ -21,4 +21,4 @@ Run it!
 
 Bash
 
-python video_sync_demo.py
+python netbox_switch_sync_vlan.py
